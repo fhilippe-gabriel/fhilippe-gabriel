@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhilippedev&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true" alt="fhilippedev"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhilippedev&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhilippe-gabriel&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true" alt="fhilippe-gabriel"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhilippe-gabriel&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true"/>
 </div>
 
 <div style="display: inline_block"><br>
