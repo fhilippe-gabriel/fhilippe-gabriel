@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**luizjr/luizjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fhilippedev/fhilippedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizjr&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true" alt="luizjr"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjr&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhilippedev&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true" alt="fhilippedev"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhilippedev&layout=compact&langs_count=8&count_private=true&hide_border=true&title_color=2d77dc&icon_color=2d77dc&text_color=2d77dc&bg_color=00000000&show_icons=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -32,26 +32,26 @@ Here are some ideas to get you started:
 
   ##
 
-<div>
-  <a href="https://www.youtube.com/c/LuizJrDeveloper" target="_blank">
+<!-- <div>
+  <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/luizjrdeveloper" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/fhilippedev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
- 	<a href="https://www.twitch.tv/luizjrdeveloper" target="_blank">
+ 	<a href="https://www.twitch.tv/fhilippedev" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
  <a href="https://discord.gg/" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:luizjrdeveloper@gmail.com">
+  <a href = "mailto:fhilippedev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/luizjrdeveloper" target="_blank">
+<!--   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-
+ -->
   ![Snake animation](https://github.com/luizjr/luizjr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
