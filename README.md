@@ -78,7 +78,7 @@
 
 ###
 
-## 👋 Olá! Eu sou o Fhilippe Gabriel
+## 👋 Olá! Como vai??
 
 🎧 Desenvolvedor, entusiasta de tecnologia, editor de vídeo, operador de áudio e eterno curioso!  
 🚀 Estou sempre explorando o mundo da programação, da automação e da criatividade digital.
